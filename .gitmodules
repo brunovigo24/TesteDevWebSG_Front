@@ -1,0 +1,3 @@
+[submodule "TesteDevWebSG_Front"]
+	path = TesteDevWebSG_Front
+	url = https://github.com/brunovigo24/TesteDevWebSG_Front.git
